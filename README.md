@@ -1,1 +1,7 @@
-# VSA17
+# Project Folder Structure
+./
+├── infrastructure/
+│
+├── automation/
+│
+└── coding/
